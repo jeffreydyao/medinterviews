@@ -1,6 +1,10 @@
-layout: page
-title: "Interview Masterdoc"
+---
+layout: default
+title: Interview Masterdoc
+nav_order: 1
+description: "test"
 permalink: /
+---
 
 The medicine admissions process revolves around two domains of evaluation: academic performance (*UCAT, HSC, GPA*) and personal characteristics/aptitudes (*MMI, SSI*). 
 
